@@ -1,0 +1,5 @@
+data_ready: false
+data_stream: RS03AXPS-SF03A-3B-OPTAAD301-streamed-optaa_sample
+last_request: '2021-12-06T23:43:42.880331Z'
+response: https://raw.githubusercontent.com/ooi-data/RS03AXPS-SF03A-3B-OPTAAD301-streamed-optaa_sample/main/history/response.json
+status: pending
